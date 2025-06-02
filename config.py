@@ -38,7 +38,7 @@ R = np.array([[0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1],
 
 I = 5
 
-path = "C://Users//radov//Desktop//debug"
+path = "path/to/file"
 
 fan_in = 3
 
